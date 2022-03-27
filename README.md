@@ -8,7 +8,7 @@ Vow of the Disciple
 > https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/VowOfTheDisciple.json
 
 Season of the Risen
-> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Season16,json
+> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Season16.json
 
 The Witch Queen
 > https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/WitchQueen.json
