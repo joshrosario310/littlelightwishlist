@@ -8,13 +8,13 @@ Vow of the Disciple
 > https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/VowOfTheDisciple.json
 
 Season of the Risen
-> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Season16
+> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Season16,json
 
 The Witch Queen
-> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/WitchQueen
+> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/WitchQueen.json
 
 Dawning 2021
-> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Dawning2021
+> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Dawning2021.json
 
 30th Anniversary
 > https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/30thAnniversary.json
