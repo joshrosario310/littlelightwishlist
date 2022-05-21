@@ -4,6 +4,9 @@ LittleLight wishlists
 In the iOS/Android App navigate to Settings and Add a Wishlist
 Paste one of the following to the URL field to load it:
 
+The Title
+> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/VowOfTheDisciple.json
+
 Vow of the Disciple
 > https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/VowOfTheDisciple.json
 
