@@ -4,6 +4,9 @@ LittleLight wishlists
 In the iOS/Android App navigate to Settings and Add a Wishlist
 Paste one of the following to the URL field to load it:
 
+Season of the Haunted
+> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Season17.json
+
 The Title
 > https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/TheTitle.json
 
