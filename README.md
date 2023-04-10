@@ -7,6 +7,9 @@ Paste one of the following to the URL field to load it:
 Lightfall & Season of Defiance
 > https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Season20.json
 
+Rose
+> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Rose.json
+
 Season of the Seraph
 > https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Season19.json
 
