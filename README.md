@@ -4,6 +4,9 @@ LittleLight wishlists
 In the iOS/Android App navigate to Settings and Add a Wishlist
 Paste one of the following to the URL field to load it:
 
+Season of the Deep
+> https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Season21.json
+
 Lightfall & Season of Defiance
 > https://raw.githubusercontent.com/joshrosario310/littlelightwishlist/main/Season20.json
 
