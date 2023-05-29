@@ -329,7 +329,7 @@
             "tags": [
                 "PVE"
             ]
-        }, , 
+        },
         {
             "description": "Supremacy",
             "hash": 2884596447,
@@ -464,7 +464,6 @@
             "tags": [
                 "PVP"
             ]
-        }
         }
     ]
 }
